@@ -1,3 +1,3 @@
 let courselength = 20
 
-document.getElementById('courselength').innerHTML = courselength#;
+document.getElementById('courselength').innerHTML = courselength;
