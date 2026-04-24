@@ -1,3 +1,3 @@
-let result# = 20
+let courselength = 20
 
-document.getElementById('result#').innerHTML = result#;
+document.getElementById('courselength').innerHTML = courselength#;
