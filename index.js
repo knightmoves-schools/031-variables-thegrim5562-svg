@@ -1,1 +1,1 @@
-let result# = 20;
+let courseLength = 20;
